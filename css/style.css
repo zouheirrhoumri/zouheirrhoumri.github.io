@@ -433,7 +433,7 @@ header.sticky{
 	}
 }
 .back1{
- background-image: url(../img/backroundform.jpg);
+ background-image: url(../img/aboutusback.jpg);
  background-size: cover;
 }
 .form0{
@@ -524,14 +524,14 @@ form{
 }
 
 /* Styles de base pour le corps de la page */
-body {
+/* body {
     font-family: Arial, sans-serif;
     background-color: #f2f2f2;
     color: #333;
     line-height: 1.6;
     margin: 0;
     padding: 0;
-}
+} */
 
 /* Styles pour le formulaire de contact */
 #contact-form {
@@ -585,7 +585,4 @@ button[type="submit"]:hover {
 h2{
 	margin-top: 0px;
     padding-top: 0px;
-}
-div h2{
-	padding: 200px;
 }
