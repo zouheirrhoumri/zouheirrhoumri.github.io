@@ -516,24 +516,12 @@ form{
 	}
 
 }
-/* Réinitialisation des styles pour le formulaire */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Styles de base pour le corps de la page */
-/* body {
-    font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
-    color: #333;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-} */
-
-/* Styles pour le formulaire de contact */
 #contact-form {
     max-width: 600px;
     margin: 0 auto;
